@@ -10,7 +10,7 @@
 ## Repository contents
 * Python file in .ipynb format
 * Presentation of analysis file in pdf format
-* [Technologies Used](Python: Pandas, Numpy, Seaborn, Matplotlib)
+* Technologies Used: Python: Pandas, Numpy, Seaborn, Matplotlib
 
 <!--Analysis Details-->
 ## General Information
