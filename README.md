@@ -1,48 +1,32 @@
-# Project Name
-> Outline a brief description of your project.
+# LendingClubCaseStudy
+> Consumer finance company specializes in lending various types of loans to urban customers. When the company receives a loan application, the company has to make a decision for loan approval based on the applicant’s profile.
+> Types of risks are associated:
+  - If the applicant is likely to repay the loan, then not approving the loan results in a loss of business to the company
+  - If the applicant is not likely to repay the loan, i.e. he/she is likely to default, then approving the loan may lead to a financial loss for the company
+ We need to calculate risk for each applicant and process accordingly in order to obtain profits and minimizing losses.
 
 
-## Table of Contents
-* [General Info](#general-information)
-* [Technologies Used](#technologies-used)
-* [Conclusions](#conclusions)
-* [Acknowledgements](#acknowledgements)
 
-<!-- You can include any other section that is pertinent to your problem -->
+## Repository contents
+* Python file in .ipynb format
+* Presentation of analysis file in pdf format
+* Technologies Used: Python: Pandas, Numpy, Seaborn, Matplotlib
 
+<!--Analysis Details-->
 ## General Information
-- Provide general information about your project here.
-- What is the background of your project?
-- What is the business probem that your project is trying to solve?
-- What is the dataset that is being used?
+- We have been provided with complete loan data for all loans issued through the time period 2007 to 2011. We Apply EDA on the data and get insights to obtain our objective.
+Steps in our Analysis:
+- Data Sourcing.
+- Data Cleaning: We standardise values to obtain format that can be analysed on.
+- Univariate Analysis: Understanding single variables to understand their spread.
+- Bivariate Analysis: Understanding relation between two variables with help of plots.
+- Multivariate Analysis:Relation with more than two variables with pair plot!
+- Insights from the analysis
 
-<!-- You don't have to answer all the questions - just the ones relevant to your project. -->
-
-## Conclusions
-- Conclusion 1 from the analysis
-- Conclusion 2 from the analysis
-- Conclusion 3 from the analysis
-- Conclusion 4 from the analysis
-
-<!-- You don't have to answer all the questions - just the ones relevant to your project. -->
-
-
-## Technologies Used
-- library - version 1.0
-- library - version 2.0
-- library - version 3.0
-
-<!-- As the libraries versions keep on changing, it is recommended to mention the version of library used in this project -->
-
-## Acknowledgements
-Give credit here.
-- This project was inspired by...
-- References if any...
-- This project was based on [this tutorial](https://www.example.com).
 
 
 ## Contact
-Created by [@githubusername] - feel free to contact me!
+Created by [@Sumanth-Sarva] - feel free to contact me!
 
 
 <!-- Optional -->
